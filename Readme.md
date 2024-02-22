@@ -1,0 +1,1 @@
+Projeto criado para testar as habilidades adquiridas no primeiro ano de ciências da computação. Vou atualziar conforme desenvolvo o código e aprendo novas funcionalidades
